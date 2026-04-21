@@ -58,13 +58,8 @@ O fluxo de funcionamento do sistema é composto pelas seguintes etapas:
    Aplicação de regras ou modelos de Machine Learning
 
 6. **Ação/Resposta**
-   Execução de comandos com base no gesto reconhecido, cada gesto com a mão execulta um programa no computado. Por exemplo:  o gesto 1, com a mão abre um programa no computador  
+   Execução de comandos com base no gesto reconhecido
 
-<img src="https://drive.google.com/file/d/10MlYC4yTm0bDzs3sUG72YP1RidF0lpIj/view?usp=sharing"/>
-<img src="https://drive.google.com/file/d/1u6R9bHQpk8GAPjEvhgasUmO0dJHUR-2H/view?usp=sharing"/>
-
-
-💡 Nota: Embora o sistema ainda não realize o reconhecimento completo de gestos, até porque a minha webcan não seja boa, esta etapa de captura é crucial para garantir a qualidade dos dados e a viabilidade das próximas implementações.
 ---
 
 ## 🚀 Instalação
@@ -167,8 +162,8 @@ Distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais informa�
 
 ## 👨‍💻 Autor
 
-THIAGO LEANDRO DOS SANTOS
-GitHub: https://github.com/thiagoleandrodev
+**Seu Nome**
+GitHub: https://github.com/seu-usuario
 
 ---
 
