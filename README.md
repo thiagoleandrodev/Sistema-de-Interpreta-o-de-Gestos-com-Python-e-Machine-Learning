@@ -60,6 +60,8 @@ O fluxo de funcionamento do sistema é composto pelas seguintes etapas:
 6. **Ação/Resposta**
    Execução de comandos com base no gesto reconhecido
 
+<img width="1244" height="669" alt="Captura de tela 2026-04-21 201642" src="https://github.com/user-attachments/assets/2904eab3-b1e0-4627-ae34-029b48997f7b" />
+
 ---
 
 ## 🚀 Instalação
