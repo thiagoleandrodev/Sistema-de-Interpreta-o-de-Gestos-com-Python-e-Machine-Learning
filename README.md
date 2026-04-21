@@ -60,6 +60,10 @@ O fluxo de funcionamento do sistema é composto pelas seguintes etapas:
 6. **Ação/Resposta**
    Execução de comandos com base no gesto reconhecido
 
+https://drive.google.com/file/d/10MlYC4yTm0bDzs3sUG72YP1RidF0lpIj/view?usp=drive_link
+https://drive.google.com/file/d/1u6R9bHQpk8GAPjEvhgasUmO0dJHUR-2H/view?usp=drive_link
+
+💡 Nota: Embora o sistema ainda não realize o reconhecimento completo de gestos, até porque a minha webcan não seja boa, esta etapa de captura é crucial para garantir a qualidade dos dados e a viabilidade das próximas implementações.
 ---
 
 ## 🚀 Instalação
@@ -162,8 +166,8 @@ Distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais informa�
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
-GitHub: https://github.com/seu-usuario
+THIAGO LEANDRO DOS SANTOS
+GitHub: https://github.com/thiagoleandrodev
 
 ---
 
