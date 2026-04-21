@@ -1,4 +1,3 @@
-<img width="1194" height="683" alt="Captura de tela 2026-04-21 201709" src="https://github.com/user-attachments/assets/a8637ccb-c19a-4ab5-ae5a-90f10ec89657" />
 # 🖐️ Sistema de Interpretação de Gestos com Python e Machine Learning
 
 <p align="center">
