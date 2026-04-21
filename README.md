@@ -64,7 +64,7 @@ O fluxo de funcionamento do sistema é composto pelas seguintes etapas:
 
 <img width="1194" height="683" alt="Captura de tela 2026-04-21 201709" src="https://github.com/user-attachments/assets/1db33da1-5d44-48b0-84c2-82101935bf2a" />
 
-💡 Nota: O projeto ainda não realiza reconhecimento de gestos de forma completa. A qualidade da webcam e as condições de captura impactam diretamente os resultados, por isso esta fase de coleta é essencial para evolução do sistema. Cada gesto com a mão, por exemplo "1" com a mão se abre um programa no computado.
+Nota: O projeto ainda não realiza reconhecimento de gestos de forma completa. A qualidade da webcam e as condições de captura impactam diretamente os resultados, por isso esta fase de coleta é essencial para evolução do sistema. Cada gesto com a mão, por exemplo "1" com a mão se abre um programa no computado.
 ---
 
 ## 🚀 Instalação
