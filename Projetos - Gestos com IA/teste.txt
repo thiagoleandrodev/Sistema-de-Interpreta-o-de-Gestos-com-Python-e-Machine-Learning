@@ -1,2 +1,0 @@
-Este arquivo está responsável por criptografar um arquivo usando o módulo payaes, que é uma implementação de AES em Python.
-O processo envolve ler o conteúdo do arquivo, criptografá-lo usando uma chave e salvar o resultado em um novo arquivo com uma extensão diferente para indicar que está criptografado.
